@@ -1,0 +1,6 @@
+Has many through 
+Has many - Has many of the OTHER class
+Belongs To - This class Belongs to another class
+
+
+Dog class    Owner class
